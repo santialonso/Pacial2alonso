@@ -1,0 +1,9 @@
+C:\Users\360\Desktop\20201013_Parcial_2\BlazorApp1\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\360\Desktop\20201013_Parcial_2\BlazorApp1\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\360\Desktop\20201013_Parcial_2\BlazorApp1\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\360\Desktop\20201013_Parcial_2\BlazorApp1\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+C:\Users\360\Desktop\20201013_Parcial_2\BlazorApp1\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\360\Desktop\20201013_Parcial_2\BlazorApp1\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\360\Desktop\20201013_Parcial_2\BlazorApp1\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\360\Desktop\20201013_Parcial_2\BlazorApp1\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\360\Desktop\20201013_Parcial_2\BlazorApp1\Model\obj\Debug\netcoreapp3.1\Model.pdb
